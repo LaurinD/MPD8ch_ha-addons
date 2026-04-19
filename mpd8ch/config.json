@@ -1,0 +1,11 @@
+{
+  "name": "MPD 8 Channel",
+  "version": "1.0",
+  "slug": "mpd8ch",
+  "description": "MPD with 8 channel ALSA output",
+  "startup": "services",
+  "boot": "auto",
+  "host_network": true,
+  "devices": ["/dev/snd"],
+  "arch": ["aarch64","armv7","amd64"]
+}
