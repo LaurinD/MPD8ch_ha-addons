@@ -1,8 +1,8 @@
 {
   "name": "MPD 8 Channel",
-  "version": "1.0",
+  "version": "2.0",
   "slug": "mpd8ch",
-  "description": "MPD with 8 channel ALSA output",
+  "description": "test 2 MPD with 8 channel ALSA output",
   "startup": "services",
   "boot": "auto",
   "host_network": true,
